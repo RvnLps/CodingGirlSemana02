@@ -1,0 +1,8 @@
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\bin\Debug\ExemplosAulasSemana02.exe.config
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\bin\Debug\ExemplosAulasSemana02.exe
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\bin\Debug\ExemplosAulasSemana02.pdb
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\obj\Debug\ExemplosAulasSemana02.csproj.AssemblyReference.cache
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\obj\Debug\ExemplosAulasSemana02.csproj.SuggestedBindingRedirects.cache
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\obj\Debug\ExemplosAulasSemana02.csproj.CoreCompileInputs.cache
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\obj\Debug\ExemplosAulasSemana02.exe
+C:\Users\RLopes_2\Documents\AulasCSharp\MóduloPrincipal\AulasWill\ExemplosAulasSemana02\obj\Debug\ExemplosAulasSemana02.pdb
